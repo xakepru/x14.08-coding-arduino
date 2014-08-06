@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1402777103 source:c:\warrior\xakep\avr-2\part-2\fuse.c
+	<avr/io.h>
+
+1403384732 
+
+1403028639 source:c:\warrior\xakep\avr-2\part-2\main.c
+	<avr/io.h>
+	<avr/builtins.h>
+	"timer0.h"
+	"discr_io.h"
+
+1403028639 h"
+
+1402949779 c:\warrior\xakep\avr-2\part-2\timer0.h
+
+1403036490 c:\warrior\xakep\avr-2\part-2\discr_io.h
+
+1403035081 source:c:\warrior\xakep\avr-2\part-2\timer0.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"timer0.h"
+
+1403033656 source:c:\warrior\xakep\avr-2\part-2\discr_io.c
+	"discr_io.h"
+	<avr/io.h>
+
+1402777102 source:c:\warrior\avr-2\avr-2\part-2\fuse.c
+	<avr/io.h>
+
+1403384732 source:c:\warrior\avr-2\avr-2\part-2\main.c
+	<avr/io.h>
+	<avr/builtins.h>
+	<avr/pgmspace.h>
+	<stdio.h>
+	<stdlib.h>
+	"timer0.h"
+	"discr_io.h"
+	"uart0.h"
+
+1402949778 c:\warrior\avr-2\avr-2\part-2\timer0.h
+
+1403036490 c:\warrior\avr-2\avr-2\part-2\discr_io.h
+
+1403035080 source:c:\warrior\avr-2\avr-2\part-2\timer0.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"timer0.h"
+
+1403382009 source:c:\warrior\avr-2\avr-2\part-2\discr_io.c
+	"discr_io.h"
+	<avr/io.h>
+	<avr/builtins.h>
+
+1403382009 ins.h>
+
+1403290261 c:\warrior\avr-2\avr-2\part-2\uart0.h
+
+1403385395 source:c:\warrior\avr-2\avr-2\part-2\uart0.c
+	<stdio.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"fifo.h"
+	<avr/pgmspace.h>
+
+1403385395 ace.h>
+
+1403294563 c:\warrior\avr-2\avr-2\part-2\fifo.h
+
+1403967136 source:/home/warrior/work/Arduino/AVR-2/AVR-2/part-2/discr_io.c
+	<avr/io.h>
+	<avr/builtins.h>
+	<avr/eeprom.h>
+	"discr_io.h"
+	<string.h>
+
+1403967131 /home/warrior/work/Arduino/AVR-2/AVR-2/part-2/discr_io.h
+
+1402777102 source:/home/warrior/work/Arduino/AVR-2/AVR-2/part-2/fuse.c
+	<avr/io.h>
+
+1403825119 source:/home/warrior/work/Arduino/AVR-2/AVR-2/part-2/main.c
+	<avr/io.h>
+	<avr/builtins.h>
+	<avr/pgmspace.h>
+	<avr/eeprom.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<util/delay.h>
+	"timer1.h"
+	"discr_io.h"
+	"uart0.h"
+	"command.h"
+
+1402949778 /home/warrior/work/Arduino/AVR-2/AVR-2/part-2/timer0.h
+
+1403290260 /home/warrior/work/Arduino/AVR-2/AVR-2/part-2/uart0.h
+
+1403816727 source:/home/warrior/work/Arduino/AVR-2/AVR-2/part-2/timer0.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"timer0.h"
+
+1403466986 source:/home/warrior/work/Arduino/AVR-2/AVR-2/part-2/uart0.c
+	<stdio.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<avr/builtins.h>
+	"fifo.h"
+
+1403387322 /home/warrior/work/Arduino/AVR-2/AVR-2/part-2/fifo.h
+
+1403816962 /home/warrior/work/Arduino/AVR-2/AVR-2/part-2/timer1.h
+
+1403817094 source:/home/warrior/work/Arduino/AVR-2/AVR-2/part-2/timer1.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"timer1.h"
+
+1403967093 source:/home/warrior/work/Arduino/AVR-2/AVR-2/part-2/command.c
+	<avr/pgmspace.h>
+	<stdio.h>
+	<avr/eeprom.h>
+	<util/delay.h>
+	<ctype.h>
+	"discr_io.h"
+
+1403821339 /home/warrior/work/Arduino/AVR-2/AVR-2/part-2/command.h
+
